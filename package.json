@@ -18,7 +18,8 @@
   "homepage": "https://github.com/Lama-Mahmoud/challenge#readme",
   "dependencies": {
     "express": "^4.18.1",
-    "uuid": "^8.3.2"
+    "uuid": "^8.3.2",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
